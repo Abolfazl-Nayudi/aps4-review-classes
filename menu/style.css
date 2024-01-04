@@ -79,6 +79,10 @@ div.menu-icon {
   display: none;
 }
 
+.test {
+  display: none;
+}
+
 .nav-list-menu {
   height: 400px;
   display: flex;
