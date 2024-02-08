@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "abolfazl@gmail.com",
+      "password": "abolfazl"
+    },
+    {
+      "id": "b718",
+      "email": "chaseb@gmail.com",
+      "password": "abolfazl"
+    },
+    {
+      "id": "6789",
+      "email": "hamood@gmail.com",
+      "password": "abolfazl"
+    },
+    {
+      "id": "b01c",
+      "email": "hatam@gmail.com",
+      "password": "asdflkjdfs;"
+    },
+    {
+      "id": "bf8d",
+      "email": "hamid@gmail.com",
+      "password": "abolfazl"
+    },
+    {
+      "id": "983b",
+      "email": "abod@gmail.com",
+      "password": "abodhanaiee"
+    },
+    {
+      "id": "3988",
+      "email": "abodsalami@gmail.com",
+      "password": "abolfaflsdkfj"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 20
+    },
+    {
+      "id": "1",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 20
+    },
+    {
+      "id": "2",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 20
+    },
+    {
+      "id": "3",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 20
+    },
+    {
+      "id": "4",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 20
+    },
+    {
+      "id": "5",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 20
+    }
+  ]
+}
