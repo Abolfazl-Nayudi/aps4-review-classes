@@ -17,7 +17,6 @@ signInForm.addEventListener('submit', async (e) => {
     const res = await user.login();
     console.log(res);
     if (res.statusCode === 404) {
-      console.log('hi there');
       messagePreview.textContent = res.message;
       messagePreview.style.color = 'crimson';
     }

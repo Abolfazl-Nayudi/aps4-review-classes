@@ -6,12 +6,10 @@ class Authentication {
 
   verifyData() {
     if (!this.email.endsWith('@gmail.com')) {
-      console.log('in email condition');
       throw new Error('email or password incorrect');
     }
 
     if (this.password.length < 5) {
-      console.log('in password condition');
       throw new Error('email or password incorrect');
     }
   }
@@ -59,7 +57,6 @@ class Authentication {
       );
 
       const user = await getUser.json();
-      console.log(user);
       if (user.length === 0) {
         return {
           statusCode: 404,
@@ -69,7 +66,6 @@ class Authentication {
       }
 
       if (!(this.password === user[0].password)) {
-        console.log('in password condition');
         return {
           statusCode: 404,
           message: 'email or password incorrect',
