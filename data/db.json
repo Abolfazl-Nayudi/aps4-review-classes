@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "abolfazl@gmail.com",
+      "password": "abolfazl"
+    },
+    {
+      "id": "d047",
+      "email": "dina@gmail.com",
+      "password": "dina@@@"
+    },
+    {
+      "id": "e4f5",
+      "email": "mobinaGhor@gmail.com",
+      "password": "thePowerOfGhor"
+    },
+    {
+      "id": "96f2",
+      "email": "reza@gmail.com",
+      "password": "abolfazl"
+    },
+    {
+      "id": "ceaf",
+      "email": "hasem@gmail.com",
+      "password": "dddfdfs"
+    },
+    {
+      "id": "20c9",
+      "email": "dude@gmail.com",
+      "password": "dude1234"
+    },
+    {
+      "id": "2810",
+      "email": "a@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "2bce",
+      "email": "hello@gmail.com",
+      "password": "hithere"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 30
+    },
+    {
+      "id": "2",
+      "title": "shirt",
+      "description": "best shirt ever",
+      "price": 20
+    },
+    {
+      "id": "1",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 30
+    },
+    {
+      "id": "2",
+      "title": "shirt",
+      "description": "best shirt ever",
+      "price": 20
+    },
+    {
+      "id": "1",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 30
+    },
+    {
+      "id": "2",
+      "title": "shirt",
+      "description": "best shirt ever",
+      "price": 20
+    },
+    {
+      "id": "1",
+      "title": "shoes",
+      "description": "best shoes ever",
+      "price": 30
+    },
+    {
+      "id": "2",
+      "title": "shirt",
+      "description": "best shirt ever",
+      "price": 20
+    }
+  ]
+}
